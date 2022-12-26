@@ -1,0 +1,21 @@
+{
+  "displayName": "LiquidFramework",
+  "name": "com.xorfe.liqiudframework",
+  "version": "0.1.0",
+  "unity": "2019.3",
+  "description": "Repository description",
+  "keywords": [
+    "unity",
+    "UPM"
+  ],
+  "category": "Repository category",
+  "author": {
+    "name": "xOrfe",
+    "email": "batuhanozankaplan@protonmail.com",
+    "url": "https://github.com/xOrfe"
+  },
+  "dependencies": {
+    "net.tnrd.serializableinterface": "1.12.1"
+  },
+  "scopedRegistries": []
+}

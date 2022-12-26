@@ -1,0 +1,16 @@
+{
+    "name": "Xo.LiquidFramework.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:52e04e314f974f843b0340929dd76ee4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

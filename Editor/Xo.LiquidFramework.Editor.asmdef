@@ -1,0 +1,16 @@
+{
+    "name": "Xo.LiquidFramework.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:50c0d2c53d241416b800c522d0224045"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
